@@ -1,5 +1,5 @@
 # Open Journal System
-This project just for self learning using BizLand template
+This project just for self learning using BizLand template \
 License: https://bootstrapmade.com/license/
 
 
